@@ -9,7 +9,7 @@
 
 ## 0. Overview
 
-**상세한 내용은 [upstage-ai-advanced-ir8-private/ppt/패스트캠퍼스_Upstage_AI_Lab_3기_IR_경진대회_발표자료_8조.pdf](upstage-ai-advanced-ir8-private/ppt/패스트캠퍼스_Upstage_AI_Lab_3기_IR_경진대회_발표자료_8조.pdf)** 를 참고해주세요.
+**상세한 내용은 [패스트캠퍼스_Upstage_AI_Lab_3기_IR_경진대회_발표자료_8조.pdf](./ppt/패스트캠퍼스_Upstage_AI_Lab_3기_IR_경진대회_발표자료_8조.pdf)** 를 참고해주세요.
 
 ### Environment
 - AMD Ryzen Threadripper 3960X 24-Core Processor
